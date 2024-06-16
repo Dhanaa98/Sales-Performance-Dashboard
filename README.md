@@ -39,5 +39,5 @@ This project delivers a detailed analysis of Adidas's sales performance in Unite
 
 For any questions or further assistance, please feel free to contact me.
 
-Dhananjaya Mudunkotuwa
+Dhananjaya Mudunkotuwa  
 dhananjayamudunkotuwa1998@gmail.com
