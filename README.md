@@ -1,6 +1,9 @@
 # Overview
 This repository hosts a project aimed at analyzing the sales performance of Adidas in United States. The analysis was conducted using MySQL for data cleaning, followed by the development of a Power BI dashboard to visualize key insights. The primary objectives of this project are to analyze the sales and profits over the years, to provide actionable insights and recommendations for enhancing sales strategies and improving overall performance.
 
+![Sales Performance Dashboard](https://github.com/Dhanaa98/Sales-Performance-Dashboard/assets/171159250/9fda3a15-05bb-4d4c-9e3a-96183c4f5eb1)
+
+
 ## Tools and Technologies
 
 - Excel: Used as the data source for raw sales data.
